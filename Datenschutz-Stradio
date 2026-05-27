@@ -1,0 +1,127 @@
+Datenschutzerklärung für Strad.io
+
+Stand: 27. Mai 2026
+
+Einleitung
+
+Der Schutz Ihrer personenbezogenen Daten ist uns wichtig. Diese Datenschutzerklärung informiert darüber, welche personenbezogenen Daten bei der Nutzung der App Strad.io verarbeitet werden, zu welchen Zwecken dies geschieht und welche Rechte Ihnen nach der Datenschutz-Grundverordnung (DSGVO) zustehen.
+
+Strad.io ist ein serverautorisiertes Echtzeit-Mehrspieler-Spiel. Für Gast-Sessions und registrierte Nutzerkonten werden daher bestimmte Daten verarbeitet, damit Lobbies, Spielstände, Profile, Fortschritt und Bestenlisten technisch bereitgestellt werden können. Es werden keine Werbeprofile erstellt und keine Daten zu Werbezwecken verkauft.
+
+Verantwortlicher
+
+Verantwortlich für die Datenverarbeitung im Zusammenhang mit Strad.io ist:
+
+Finn Klapper Softwaretechnik
+Amrumer Str. 16
+13353 Berlin
+Deutschland
+E-Mail: kontakt@finnklapper.de
+
+Eine gesetzliche Pflicht zur Benennung eines Datenschutzbeauftragten besteht derzeit nicht.
+
+Verarbeitete Daten
+
+Bei der Nutzung von Strad.io können insbesondere folgende Daten verarbeitet werden:
+
+- Accountdaten: E-Mail-Adresse, verschlüsselte Zugangsdaten, Nutzer-ID und Authentifizierungsstatus, wenn Sie ein registriertes Konto erstellen oder sich anmelden.
+- Gastdaten: zufällig vergebener Gastname, z. B. Guest#11723, anonyme Nutzer-ID und Sessiondaten, wenn Sie ohne registriertes Konto spielen.
+- Profildaten: Spielername, Level, XP, Rating, Saisonpunkte, Anzahl gespielter Spiele, Siege, Niederlagen und ähnliche Fortschrittsdaten.
+- Spieldaten: Lobby-Code, Match-ID, Spielerzuordnung, gewählte Territorien, Aktionen im Spiel, Spielstatus, Bot-Entscheidungslogs, Ergebnisdaten und Zeitstempel.
+- Technische Daten: IP-Adresse, Geräte- und Verbindungsinformationen, Protokolldaten, Fehlermeldungen und Sicherheitsereignisse, soweit diese beim Betrieb der App und des Backends technisch anfallen.
+- Kontaktdaten: Angaben, die Sie freiwillig übermitteln, wenn Sie per E-Mail Kontakt aufnehmen.
+
+Besondere Kategorien personenbezogener Daten im Sinne von Art. 9 DSGVO werden nicht gezielt verarbeitet.
+
+Zwecke und Rechtsgrundlagen
+
+Die Verarbeitung erfolgt zu folgenden Zwecken und auf folgenden Rechtsgrundlagen:
+
+- Bereitstellung der App, Gast-Sessions, Nutzerkonten, Lobbies, Multiplayer-Funktionen, Matchmaking, Spielstände, Fortschritt und Bestenlisten: Art. 6 Abs. 1 lit. b DSGVO.
+- Speicherung und Anzeige von Spielernamen, Gastnamen, Match-Ergebnissen und Fortschritt: Art. 6 Abs. 1 lit. b DSGVO.
+- Sicherstellung eines fairen, serverautorisierten Spielbetriebs, Missbrauchsprävention, Fehleranalyse, Stabilität und Sicherheit des Backends: Art. 6 Abs. 1 lit. f DSGVO. Das berechtigte Interesse liegt im sicheren, funktionsfähigen und manipulationsgeschützten Betrieb des Spiels.
+- Bearbeitung von Kontaktanfragen: Art. 6 Abs. 1 lit. f DSGVO, bei vertragsbezogenen Anfragen zusätzlich Art. 6 Abs. 1 lit. b DSGVO.
+- Erfüllung gesetzlicher Pflichten, soweit einschlägig: Art. 6 Abs. 1 lit. c DSGVO.
+
+Lokale Speicherung und Zugriff auf das Endgerät
+
+Strad.io kann technisch notwendige Informationen auf Ihrem Endgerät speichern oder auslesen, insbesondere Session-Tokens, Login-Status, lokale App-Einstellungen und zwischengespeicherte technische Informationen. Dies ist erforderlich, um die App bereitzustellen, Sie angemeldet zu halten und Spielsessions technisch zu ermöglichen. Eine Nutzung zu Tracking- oder Werbezwecken findet nicht statt. Soweit § 25 TDDDG anwendbar ist, erfolgt die Speicherung beziehungsweise der Zugriff auf Grundlage der technischen Erforderlichkeit für den von Ihnen ausdrücklich gewünschten digitalen Dienst.
+
+Empfänger und Auftragsverarbeiter
+
+Für Backend, Authentifizierung, Datenbank, Realtime-Funktionen und technische Infrastruktur nutzt Strad.io Supabase:
+
+Supabase, Inc.
+970 Toa Payoh North #07-04
+Singapore 318992
+Datenschutzkontakt: privacy@supabase.io
+Website: https://supabase.com
+
+Supabase verarbeitet Daten als Auftragsverarbeiter beziehungsweise, soweit in den Supabase-Bedingungen vorgesehen, für bestimmte Nutzungsdaten als eigener Verantwortlicher. Die Verarbeitung erfolgt auf Grundlage eines Auftragsverarbeitungsvertrags. Soweit Daten in Drittländer außerhalb der EU/des EWR übermittelt werden oder dort Zugriffsmöglichkeiten bestehen, werden geeignete Garantien, insbesondere EU-Standardvertragsklauseln, verwendet.
+
+Beim Download oder Update der App über App-Stores können Apple, Google oder andere Store-Betreiber personenbezogene Daten in eigener Verantwortung verarbeiten. Hierfür gelten die Datenschutzinformationen des jeweiligen Store-Betreibers.
+
+Speicherdauer
+
+Personenbezogene Daten werden nur so lange gespeichert, wie dies für die genannten Zwecke erforderlich ist:
+
+- Account- und Profildaten werden grundsätzlich gespeichert, solange das Nutzerkonto besteht oder sie für Spielbetrieb, Fortschritt und Bestenlisten erforderlich sind.
+- Gastprofile und Gast-Spielstände werden gespeichert, solange sie für laufende oder abgeschlossene Spiele, Fortschritt, Missbrauchsprävention und technische Integrität erforderlich sind.
+- Match-, Lobby- und Ergebnisdaten können gespeichert bleiben, um Spielverlauf, Fortschritt, Bestenlisten, Rematches und Missbrauchsschutz bereitzustellen.
+- Technische Logs werden nur so lange gespeichert, wie sie für Sicherheit, Fehleranalyse und Betrieb erforderlich sind, sofern keine längeren gesetzlichen Aufbewahrungspflichten bestehen.
+- Kontaktanfragen werden gelöscht, wenn sie erledigt sind und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+
+Soweit gesetzliche Aufbewahrungspflichten bestehen, erfolgt die Speicherung für die gesetzlich vorgeschriebene Dauer. Anschließend werden die Daten gelöscht oder anonymisiert.
+
+Pflicht zur Bereitstellung von Daten
+
+Die Bereitstellung der für Gast-Sessions, Nutzerkonten und Matches erforderlichen Daten ist weder gesetzlich noch vertraglich vorgeschrieben, aber für die Nutzung der jeweiligen Funktionen erforderlich. Ohne die erforderlichen Daten können insbesondere Registrierung, Anmeldung, Gastspiel, Lobby-Beitritt, Matchmaking, Spielbetrieb oder Fortschritt nicht bereitgestellt werden.
+
+Keine Werbung, kein Tracking
+
+Strad.io verwendet nach aktuellem Stand keine Drittanbieter-Werbenetzwerke, keine Marketing-Tracker und keine Analysewerkzeuge zur Erstellung von Werbeprofilen. Es findet keine Weitergabe personenbezogener Daten zu Werbezwecken statt.
+
+Automatisierte Entscheidungen und Profiling
+
+Es findet keine automatisierte Entscheidungsfindung im Sinne von Art. 22 DSGVO statt. Spielinterne Bot-Entscheidungen und Match-Logik dienen ausschließlich dem Spielbetrieb und haben keine rechtliche Wirkung oder vergleichbar erhebliche Beeinträchtigung für betroffene Personen.
+
+Ihre Rechte
+
+Sie haben nach Maßgabe der DSGVO insbesondere folgende Rechte:
+
+- Recht auf Auskunft über die verarbeiteten personenbezogenen Daten, Art. 15 DSGVO.
+- Recht auf Berichtigung unrichtiger Daten, Art. 16 DSGVO.
+- Recht auf Löschung, Art. 17 DSGVO.
+- Recht auf Einschränkung der Verarbeitung, Art. 18 DSGVO.
+- Recht auf Datenübertragbarkeit, Art. 20 DSGVO.
+- Recht auf Widerspruch gegen Verarbeitungen auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO, Art. 21 DSGVO.
+- Recht auf Widerruf einer erteilten Einwilligung mit Wirkung für die Zukunft, sofern eine Verarbeitung auf Einwilligung beruht, Art. 7 Abs. 3 DSGVO.
+
+Zur Ausübung Ihrer Rechte können Sie sich an kontakt@finnklapper.de wenden.
+
+Beschwerderecht bei einer Aufsichtsbehörde
+
+Sie haben das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren, insbesondere in dem Mitgliedstaat Ihres gewöhnlichen Aufenthalts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes. Für Berlin ist zuständig:
+
+Berliner Beauftragte für Datenschutz und Informationsfreiheit
+Alt-Moabit 59-61
+10555 Berlin
+Website: https://www.datenschutz-berlin.de
+
+Sicherheit
+
+Wir treffen technische und organisatorische Maßnahmen, um personenbezogene Daten gegen Verlust, Missbrauch, unbefugten Zugriff und unbefugte Veränderung zu schützen. Dazu gehören insbesondere serverseitige Zugriffskontrollen, Authentifizierung, transportverschlüsselte Verbindungen und eine rollenbasierte Absicherung der Backend-Daten.
+
+Änderungen dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung kann aktualisiert werden, wenn sich Strad.io, die eingesetzten Dienste oder rechtliche Anforderungen ändern. Die jeweils aktuelle Fassung wird über den öffentlichen Link zu dieser Datenschutzerklärung bereitgestellt.
+
+Kontakt
+
+Bei Fragen oder Anliegen zum Datenschutz wenden Sie sich bitte an:
+
+Finn Klapper Softwaretechnik
+Amrumer Str. 16
+13353 Berlin
+Deutschland
+E-Mail: kontakt@finnklapper.de
